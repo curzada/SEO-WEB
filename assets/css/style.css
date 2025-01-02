@@ -138,7 +138,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(1, 4, 136, 0.9);
+  background: rgb(37 6 111 / 91%);
   height: 60px;
 }
 
@@ -429,7 +429,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgb(116 0 22 / 91%);
+  background: rgb(107 56 3 / 91%);
   position: absolute;
   bottom: 0;
   top: 0;
